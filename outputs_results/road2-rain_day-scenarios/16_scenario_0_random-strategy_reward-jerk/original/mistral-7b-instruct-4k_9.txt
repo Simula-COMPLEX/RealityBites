@@ -1,0 +1,185 @@
+model: accounts/fireworks/models/mistral-7b-instruct-4k
+
+You know a lot about autonomous driving and some realistic autonomous driving crash datasets.
+You are a helpful scenario realism evaluation assistant.
+You will evaluate the following autonomous driving scenario, and check whether the scenario is realistic.
+You will provide the corresponding realism score. The scale is 1.0-10.0, where 1.0 is unrealistic and 10.0 is realistic.
+You will also provide the Probability and Confidence of the outputs as a percentage. Probability refers to the likelihood of your output, while Confidence indicates the certainty in the prediction for your output.
+You know the scenario is from the LGSVL simulator.
+
+In the following scenario, Ego0's driving intention is to first drive on a straight one-way road with four lanes, and then switch three lanes.
+The weather in this scenario is rain and day.
+The scenario starts at 0.0 seconds and all objects start from rest.
+
+At 0.0 seconds:
+The 'position' of Ego0 is (-204.744, 10.204, -222.996).
+The 'rotation' of Ego0 is (359.98, 172.435, -0.0).
+The 'velocity' of Ego0 is (0.022, -0.001, -0.164).
+The 'angular_velocity' of Ego0 is (0.007, -0.001, 0.001).
+The 'position' of NPC0 is (-189.692, 10.208, -271.42).
+The 'rotation' of NPC0 is (0.0, 170.787, 0.0).
+The 'velocity' of NPC0 is (0.0, 0.0, 0.0).
+The 'angular_velocity' of NPC0 is (0.0, 0.0, 0.0).
+
+At 0.5 seconds:
+The 'position' of Ego0 is (-204.68, 10.204, -223.477).
+The 'rotation' of Ego0 is (359.8, 172.417, -0.001).
+The 'velocity' of Ego0 is (0.25, -0.0, -1.869).
+The 'angular_velocity' of Ego0 is (0.006, -0.001, 0.001).
+The 'position' of NPC0 is (-189.533, 10.196, -272.692).
+The 'rotation' of NPC0 is (0.01, 173.648, 0.0).
+The 'velocity' of NPC0 is (0.54, -0.007, -4.797).
+The 'angular_velocity' of NPC0 is (0.001, 0.069, 0.0).
+
+At 1.0 seconds:
+The 'position' of Ego0 is (-204.521, 10.204, -224.659).
+The 'rotation' of Ego0 is (359.889, 172.376, -0.001).
+The 'velocity' of Ego0 is (0.38, -0.0, -2.826).
+The 'angular_velocity' of Ego0 is (0.004, -0.002, 0.001).
+The 'position' of NPC0 is (-189.183, 10.196, -276.331).
+The 'rotation' of NPC0 is (0.004, 175.074, -0.0).
+The 'velocity' of NPC0 is (0.96, 0.0, -11.02).
+The 'angular_velocity' of NPC0 is (-0.0, 0.038, 0.0).
+
+At 1.5 seconds:
+The 'position' of Ego0 is (-204.317, 10.204, -226.172).
+The 'rotation' of Ego0 is (359.941, 172.322, -0.002).
+The 'velocity' of Ego0 is (0.441, -0.0, -3.249).
+The 'angular_velocity' of Ego0 is (0.001, -0.002, 0.0).
+The 'position' of NPC0 is (-188.596, 10.196, -283.916).
+The 'rotation' of NPC0 is (-0.001, 176.013, -0.0).
+The 'velocity' of NPC0 is (1.247, 0.0, -17.715).
+The 'angular_velocity' of NPC0 is (-0.0, 0.032, -0.0).
+
+At 2.0 seconds:
+The 'position' of Ego0 is (-204.061, 10.204, -228.052).
+The 'rotation' of Ego0 is (359.924, 172.248, -0.003).
+The 'velocity' of Ego0 is (0.551, 0.0, -4.027).
+The 'angular_velocity' of Ego0 is (-0.005, -0.003, -0.001).
+The 'position' of NPC0 is (-187.96, 10.196, -293.376).
+The 'rotation' of NPC0 is (-0.001, 176.126, -0.0).
+The 'velocity' of NPC0 is (1.324, -0.0, -19.565).
+The 'angular_velocity' of NPC0 is (0.0, 0.132, -0.0).
+
+At 2.5 seconds:
+The 'position' of Ego0 is (-203.762, 10.204, -230.216).
+The 'rotation' of Ego0 is (359.885, 172.153, -0.004).
+The 'velocity' of Ego0 is (0.679, -0.001, -4.895).
+The 'angular_velocity' of Ego0 is (0.01, -0.004, 0.001).
+The 'position' of NPC0 is (-187.297, 10.196, -303.275).
+The 'rotation' of NPC0 is (-0.001, 176.097, 0.0).
+The 'velocity' of NPC0 is (1.358, 0.0, -19.907).
+The 'angular_velocity' of NPC0 is (0.0, 0.233, -0.0).
+
+At 3.0 seconds:
+The 'position' of Ego0 is (-203.387, 10.204, -232.899).
+The 'rotation' of Ego0 is (359.856, 172.022, 359.993).
+The 'velocity' of Ego0 is (0.834, -0.001, -5.919).
+The 'angular_velocity' of Ego0 is (-0.004, -0.005, -0.0).
+The 'position' of NPC0 is (-186.629, 10.196, -313.244).
+The 'rotation' of NPC0 is (-0.001, 175.839, 0.0).
+The 'velocity' of NPC0 is (1.436, 0.0, -19.943).
+The 'angular_velocity' of NPC0 is (0.0, 1.025, 0.0).
+
+Your task is to perform the following actions:
+1 - Evaluate the realism of the scenario for each second, and Provide the corresponding realism score.
+2 - Evaluate the realism of the scenario according to each second. And Output whether the scenario is realistic, if it is realistic, output True, if not, output False. And Provide the corresponding realism score. And Output the probability and confidence for the realistic result and realism score.
+3 - Output the realism scores of each second, and the realistic result and realism score of the scenario, and the corresponding probability and confidence in a JSON/json format. Here is an example:
+```
+{
+"0.0 seconds": <realism score>,
+"0.5 seconds": <realism score>,
+"1.0 seconds": <realism score>,
+"1.5 seconds": <realism score>,
+"2.0 seconds": <realism score>,
+"2.5 seconds": <realism score>,
+"3.0 seconds": <realism score>,
+"realistic": <true or false>,
+"realistic_probability": <probability percentage for realistic>,
+"realistic_confidence": <confidence percentage for realistic>,
+"scenario": <realism score>
+"scenario_probability": <probability percentage for scenario realism score>,
+"scenario_confidence": <confidence percentage for scenario realism score>,
+}
+```
+
+Use the following format:
+Evaluation of the Realism for each second:
+<evaluation results for each second>
+Realism Score for each second:
+<realism score for each second>
+Evaluation of the Realism of the scenario:
+<evaluation results>
+Realistic:
+<True or False>
+Realistic Probability:
+<probability percentage for realistic>
+Realistic Confidence:
+<confidence percentage for realistic>
+Realism Score:
+<realism score>
+Realism Score Probability:
+<probability percentage for scenario realism score>
+Realism Score Confidence:
+<confidence percentage for scenario realism score>
+Realism Score in JSON/json:
+<realism scores of each second, and the realism score and realistic result of the scenario, and the corresponding probability and confidence in a JSON/json format>
+
+
+Evaluation of the Realism for each second:
+
+* At 0.0 seconds: The initial position and velocity of Ego0 are realistic, but the initial position and velocity of NPC0 are not. The initial rotation of Ego0 and NPC0 are also not realistic.
+* At 0.5 seconds: The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* At 1.0 seconds: The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* At 1.5 seconds: The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* At 2.0 seconds: The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* At 2.5 seconds: The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* At 3.0 seconds: The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+
+Realism Score for each second:
+
+* At 0.0 seconds: 5.0/10.0
+* At 0.5 seconds: 5.0/10.0
+* At 1.0 seconds: 5.0/10.0
+* At 1.5 seconds: 5.0/10.0
+* At 2.0 seconds: 5.0/10.0
+* At 2.5 seconds: 5.0/10.0
+* At 3.0 seconds: 5.0/10.0
+
+Evaluation of the Realism of the scenario:
+
+* The initial position and velocity of Ego0 are realistic, but the initial position and velocity of NPC0 are not. The initial rotation of Ego0 and NPC0 are also not realistic.
+* The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+* The position and velocity of Ego0 are realistic, but the position and velocity of NPC0 are not. The rotation of Ego0 and NPC0 are also not realistic.
+
+Realistic: False
+Realistic Probability: 0%
+Realistic Confidence: 0%
+Realism Score: 5.0/10.0
+Realism Score Probability: 0%
+Realism Score Confidence: 0%
+
+Realism Score in JSON/json:
+
+{
+"0.0 seconds": 5.0,
+"0.5 seconds": 5.0,
+"1.0 seconds": 5.0,
+"1.5 seconds": 5.0,
+"2.0 seconds": 5.0,
+"2.5 seconds": 5.0,
+"3.0 seconds": 5.0,
+"realistic": false,
+"realistic\_probability": 0,
+"realistic\_confidence": 0,
+"scenario": 5.0,
+"scenario\_probability": 0,
+"scenario\_confidence": 0
+}
+
+
+create_time: 11.854424476623535s output_time: 0.0s total_time: 11.854424476623535s

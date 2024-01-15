@@ -1,0 +1,769 @@
+Model,Road,Scenario_ID,Parameter,Matched,Success,Difference,Robustness
+gpt-3.5-turbo-1106,Road1,1,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road1,1,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,1,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,1,Angular Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road1,2,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road1,2,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road1,2,Velocity,6.5,8.0,3.0,11.5
+gpt-3.5-turbo-1106,Road1,2,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road1,3,Position,4.0,6.25,4.5,5.75
+gpt-3.5-turbo-1106,Road1,3,Rotation,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,Road1,3,Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,Road1,3,Angular Velocity,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,Road1,4,Position,6.0,7.25,2.5,10.75
+gpt-3.5-turbo-1106,Road1,4,Rotation,5.5,6.25,1.5,10.25
+gpt-3.5-turbo-1106,Road1,4,Velocity,4.5,5.75,2.5,7.75
+gpt-3.5-turbo-1106,Road1,4,Angular Velocity,3.0,5.0,4.0,4.0
+gpt-3.5-turbo-1106,Road1,5,Position,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,Road1,5,Rotation,5.0,7.25,4.5,7.75
+gpt-3.5-turbo-1106,Road1,5,Velocity,5.0,7.0,4.0,8.0
+gpt-3.5-turbo-1106,Road1,5,Angular Velocity,5.0,7.0,4.0,8.0
+gpt-3.5-turbo-1106,Road1,6,Position,4.0,7.0,6.0,5.0
+gpt-3.5-turbo-1106,Road1,6,Rotation,4.0,6.75,5.5,5.25
+gpt-3.5-turbo-1106,Road1,6,Velocity,4.0,6.5,5.0,5.5
+gpt-3.5-turbo-1106,Road1,6,Angular Velocity,4.0,6.5,5.0,5.5
+gpt-3.5-turbo-1106,Road1,7,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road1,7,Rotation,7.0,8.25,2.5,12.75
+gpt-3.5-turbo-1106,Road1,7,Velocity,7.0,7.5,1.0,13.5
+gpt-3.5-turbo-1106,Road1,7,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road1,8,Position,9.0,9.0,0.0,18.0
+gpt-3.5-turbo-1106,Road1,8,Rotation,4.0,6.5,5.0,5.5
+gpt-3.5-turbo-1106,Road1,8,Velocity,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,Road1,8,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road1,9,Position,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,Road1,9,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road1,9,Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road1,9,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road1,10,Position,8.5,9.0,1.0,16.5
+gpt-3.5-turbo-1106,Road1,10,Rotation,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,Road1,10,Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road1,10,Angular Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road1,11,Position,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,Road1,11,Rotation,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road1,11,Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road1,11,Angular Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,Road1,12,Position,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,Road1,12,Rotation,5.0,5.25,0.5,9.75
+gpt-3.5-turbo-1106,Road1,12,Velocity,3.0,5.0,4.0,4.0
+gpt-3.5-turbo-1106,Road1,12,Angular Velocity,3.0,5.25,4.5,3.75
+gpt-3.5-turbo-1106,Road1,13,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,13,Rotation,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,Road1,13,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,13,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road1,14,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road1,14,Rotation,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road1,14,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,14,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,15,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road1,15,Rotation,5.5,7.75,4.5,8.75
+gpt-3.5-turbo-1106,Road1,15,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,15,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road1,16,Position,4.0,6.75,5.5,5.25
+gpt-3.5-turbo-1106,Road1,16,Rotation,4.0,6.75,5.5,5.25
+gpt-3.5-turbo-1106,Road1,16,Velocity,4.0,6.25,4.5,5.75
+gpt-3.5-turbo-1106,Road1,16,Angular Velocity,4.0,6.25,4.5,5.75
+gpt-3.5-turbo-1106,Road2,17,Position,8.0,8.0,0.0,16.0
+gpt-3.5-turbo-1106,Road2,17,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road2,17,Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road2,17,Angular Velocity,7.5,8.0,1.0,14.5
+gpt-3.5-turbo-1106,Road2,18,Position,5.5,6.75,2.5,9.75
+gpt-3.5-turbo-1106,Road2,18,Rotation,6.0,7.0,2.0,11.0
+gpt-3.5-turbo-1106,Road2,18,Velocity,3.5,5.25,3.5,5.25
+gpt-3.5-turbo-1106,Road2,18,Angular Velocity,4.0,5.5,3.0,6.5
+gpt-3.5-turbo-1106,Road2,19,Position,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,Road2,19,Rotation,7.0,8.25,2.5,12.75
+gpt-3.5-turbo-1106,Road2,19,Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road2,19,Angular Velocity,4.5,6.75,4.5,6.75
+gpt-3.5-turbo-1106,Road2,20,Position,2.5,4.0,3.0,3.5
+gpt-3.5-turbo-1106,Road2,20,Rotation,2.0,3.25,2.5,2.75
+gpt-3.5-turbo-1106,Road2,20,Velocity,3.0,4.5,3.0,4.5
+gpt-3.5-turbo-1106,Road2,20,Angular Velocity,3.0,4.25,2.5,4.75
+gpt-3.5-turbo-1106,Road2,21,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road2,21,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road2,21,Velocity,7.0,7.5,1.0,13.5
+gpt-3.5-turbo-1106,Road2,21,Angular Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road2,22,Position,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road2,22,Rotation,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road2,22,Velocity,8.5,9.0,1.0,16.5
+gpt-3.5-turbo-1106,Road2,22,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road2,23,Position,8.0,8.0,0.0,16.0
+gpt-3.5-turbo-1106,Road2,23,Rotation,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,Road2,23,Velocity,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,Road2,23,Angular Velocity,7.5,8.25,1.5,14.25
+gpt-3.5-turbo-1106,Road2,24,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road2,24,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road2,24,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road2,24,Angular Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road2,25,Position,4.5,7.25,5.5,6.25
+gpt-3.5-turbo-1106,Road2,25,Rotation,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,Road2,25,Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,Road2,25,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road2,26,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road2,26,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road2,26,Velocity,4.5,7.25,5.5,6.25
+gpt-3.5-turbo-1106,Road2,26,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road2,27,Position,3.0,5.25,4.5,3.75
+gpt-3.5-turbo-1106,Road2,27,Rotation,3.0,5.25,4.5,3.75
+gpt-3.5-turbo-1106,Road2,27,Velocity,3.0,6.0,6.0,3.0
+gpt-3.5-turbo-1106,Road2,27,Angular Velocity,3.0,4.5,3.0,4.5
+gpt-3.5-turbo-1106,Road2,28,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road2,28,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road2,28,Velocity,6.5,8.25,3.5,11.25
+gpt-3.5-turbo-1106,Road2,28,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road2,29,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road2,29,Rotation,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,Road2,29,Velocity,8.5,8.75,0.5,16.75
+gpt-3.5-turbo-1106,Road2,29,Angular Velocity,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,Road2,30,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road2,30,Rotation,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road2,30,Velocity,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,Road2,30,Angular Velocity,4.5,6.75,4.5,6.75
+gpt-3.5-turbo-1106,Road2,31,Position,3.5,6.75,6.5,3.75
+gpt-3.5-turbo-1106,Road2,31,Rotation,6.5,8.25,3.5,11.25
+gpt-3.5-turbo-1106,Road2,31,Velocity,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,Road2,31,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road2,32,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road2,32,Rotation,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road2,32,Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,Road2,32,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road3,33,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road3,33,Rotation,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road3,33,Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road3,33,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road3,34,Position,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,Road3,34,Rotation,6.0,7.25,2.5,10.75
+gpt-3.5-turbo-1106,Road3,34,Velocity,6.0,7.0,2.0,11.0
+gpt-3.5-turbo-1106,Road3,34,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road3,35,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road3,35,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road3,35,Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,Road3,35,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road3,36,Position,3.0,6.0,6.0,3.0
+gpt-3.5-turbo-1106,Road3,36,Rotation,9.0,9.0,0.0,18.0
+gpt-3.5-turbo-1106,Road3,36,Velocity,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,Road3,36,Angular Velocity,7.5,8.5,2.0,14.0
+gpt-3.5-turbo-1106,Road3,37,Position,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road3,37,Rotation,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,Road3,37,Velocity,7.5,8.25,1.5,14.25
+gpt-3.5-turbo-1106,Road3,37,Angular Velocity,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,Road3,38,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road3,38,Rotation,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,Road3,38,Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road3,38,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road3,39,Position,7.5,8.5,2.0,14.0
+gpt-3.5-turbo-1106,Road3,39,Rotation,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,Road3,39,Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road3,39,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road3,40,Position,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,Road3,40,Rotation,6.0,7.25,2.5,10.75
+gpt-3.5-turbo-1106,Road3,40,Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,Road3,40,Angular Velocity,6.0,6.75,1.5,11.25
+gpt-3.5-turbo-1106,Road3,41,Position,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,Road3,41,Rotation,5.0,5.5,1.0,9.5
+gpt-3.5-turbo-1106,Road3,41,Velocity,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,Road3,41,Angular Velocity,5.0,5.5,1.0,9.5
+gpt-3.5-turbo-1106,Road3,42,Position,6.5,7.5,2.0,12.0
+gpt-3.5-turbo-1106,Road3,42,Rotation,4.5,5.75,2.5,7.75
+gpt-3.5-turbo-1106,Road3,42,Velocity,6.0,7.0,2.0,11.0
+gpt-3.5-turbo-1106,Road3,42,Angular Velocity,7.0,7.75,1.5,13.25
+gpt-3.5-turbo-1106,Road3,43,Position,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,Road3,43,Rotation,6.5,7.5,2.0,12.0
+gpt-3.5-turbo-1106,Road3,43,Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road3,43,Angular Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road3,44,Position,7.0,8.25,2.5,12.75
+gpt-3.5-turbo-1106,Road3,44,Rotation,7.0,7.0,0.0,14.0
+gpt-3.5-turbo-1106,Road3,44,Velocity,6.0,6.75,1.5,11.25
+gpt-3.5-turbo-1106,Road3,44,Angular Velocity,6.5,7.5,2.0,12.0
+gpt-3.5-turbo-1106,Road3,45,Position,2.5,4.5,4.0,3.0
+gpt-3.5-turbo-1106,Road3,45,Rotation,4.0,4.75,1.5,7.25
+gpt-3.5-turbo-1106,Road3,45,Velocity,2.0,3.0,2.0,3.0
+gpt-3.5-turbo-1106,Road3,45,Angular Velocity,1.5,2.75,2.5,1.75
+gpt-3.5-turbo-1106,Road3,46,Position,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,Road3,46,Rotation,1.5,5.25,7.5,-0.75
+gpt-3.5-turbo-1106,Road3,46,Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road3,46,Angular Velocity,4.5,6.75,4.5,6.75
+gpt-3.5-turbo-1106,Road3,47,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road3,47,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road3,47,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road3,47,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road3,48,Position,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,Road3,48,Rotation,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,Road3,48,Velocity,5.5,6.5,2.0,10.0
+gpt-3.5-turbo-1106,Road3,48,Angular Velocity,5.5,6.5,2.0,10.0
+gpt-3.5-turbo-1106,Road4,49,Position,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,Road4,49,Rotation,4.5,5.25,1.5,8.25
+gpt-3.5-turbo-1106,Road4,49,Velocity,5.0,5.75,1.5,9.25
+gpt-3.5-turbo-1106,Road4,49,Angular Velocity,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,Road4,50,Position,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road4,50,Rotation,2.0,5.5,7.0,0.5
+gpt-3.5-turbo-1106,Road4,50,Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road4,50,Angular Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road4,51,Position,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,Road4,51,Rotation,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,Road4,51,Velocity,8.5,9.0,1.0,16.5
+gpt-3.5-turbo-1106,Road4,51,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,52,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,52,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road4,52,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road4,52,Angular Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,Road4,53,Position,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road4,53,Rotation,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,Road4,53,Velocity,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,Road4,53,Angular Velocity,7.5,8.25,1.5,14.25
+gpt-3.5-turbo-1106,Road4,54,Position,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,Road4,54,Rotation,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,Road4,54,Velocity,5.0,7.0,4.0,8.0
+gpt-3.5-turbo-1106,Road4,54,Angular Velocity,5.0,6.75,3.5,8.25
+gpt-3.5-turbo-1106,Road4,55,Position,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,Road4,55,Rotation,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,Road4,55,Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,Road4,55,Angular Velocity,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,Road4,56,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road4,56,Rotation,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,Road4,56,Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,56,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,57,Position,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,Road4,57,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road4,57,Velocity,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,Road4,57,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road4,58,Position,5.0,5.25,0.5,9.75
+gpt-3.5-turbo-1106,Road4,58,Rotation,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,Road4,58,Velocity,3.0,4.0,2.0,5.0
+gpt-3.5-turbo-1106,Road4,58,Angular Velocity,4.0,4.75,1.5,7.25
+gpt-3.5-turbo-1106,Road4,59,Position,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,Road4,59,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road4,59,Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,Road4,59,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road4,60,Position,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,Road4,60,Rotation,7.5,8.5,2.0,14.0
+gpt-3.5-turbo-1106,Road4,60,Velocity,2.5,5.75,6.5,1.75
+gpt-3.5-turbo-1106,Road4,60,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,Road4,61,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road4,61,Rotation,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,Road4,61,Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road4,61,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road4,62,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,62,Rotation,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,62,Velocity,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,Road4,62,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,Road4,63,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road4,63,Rotation,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,Road4,63,Velocity,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,Road4,63,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road4,64,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,Road4,64,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,Road4,64,Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,Road4,64,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,1,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,1,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,1,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,1,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,2,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,2,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,2,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,2,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,3,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,3,Rotation,4.5,7.25,5.5,6.25
+llama-v2-13b-chat,Road1,3,Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,Road1,3,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,4,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,4,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,4,Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road1,4,Angular Velocity,1.5,5.75,8.5,-1.25
+llama-v2-13b-chat,Road1,5,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,5,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,5,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,5,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,6,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,6,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,6,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,6,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,7,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,7,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,7,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,7,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,8,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,8,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,8,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,8,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,9,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,9,Rotation,8.5,9.25,1.5,16.25
+llama-v2-13b-chat,Road1,9,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,9,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,10,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,10,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,10,Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road1,10,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road1,11,Position,7.5,8.75,2.5,13.75
+llama-v2-13b-chat,Road1,11,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,11,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,11,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,12,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,12,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,12,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,12,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,13,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,13,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,13,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,13,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,14,Position,1.0,5.5,9.0,-2.5
+llama-v2-13b-chat,Road1,14,Rotation,0.0,0.5,1.0,-0.5
+llama-v2-13b-chat,Road1,14,Velocity,1.0,5.5,9.0,-2.5
+llama-v2-13b-chat,Road1,14,Angular Velocity,0.5,2.75,4.5,-1.25
+llama-v2-13b-chat,Road1,15,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,15,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,15,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,15,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road1,16,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road1,16,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road1,16,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road1,16,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,17,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road2,17,Rotation,4.0,7.0,6.0,5.0
+llama-v2-13b-chat,Road2,17,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,17,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,18,Position,4.0,6.5,5.0,5.5
+llama-v2-13b-chat,Road2,18,Rotation,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road2,18,Velocity,1.0,4.5,7.0,-1.5
+llama-v2-13b-chat,Road2,18,Angular Velocity,8.0,9.0,2.0,15.0
+llama-v2-13b-chat,Road2,19,Position,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,19,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,19,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,19,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,20,Position,1.0,5.5,9.0,-2.5
+llama-v2-13b-chat,Road2,20,Rotation,7.5,8.75,2.5,13.75
+llama-v2-13b-chat,Road2,20,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,20,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,21,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,21,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,21,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,21,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,22,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,22,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,22,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,22,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,23,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road2,23,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,23,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,23,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road2,24,Position,9.5,9.75,0.5,18.75
+llama-v2-13b-chat,Road2,24,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,24,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,24,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,25,Position,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,25,Rotation,0.0,3.75,7.5,-3.75
+llama-v2-13b-chat,Road2,25,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,25,Angular Velocity,0.0,0.25,0.5,-0.25
+llama-v2-13b-chat,Road2,26,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road2,26,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road2,26,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,26,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,27,Position,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,27,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,27,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road2,27,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,28,Position,9.5,9.75,0.5,18.75
+llama-v2-13b-chat,Road2,28,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,28,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,28,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,29,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,29,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,29,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,29,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,30,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,30,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road2,30,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,30,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road2,31,Position,0.0,0.5,1.0,-0.5
+llama-v2-13b-chat,Road2,31,Rotation,0.0,0.5,1.0,-0.5
+llama-v2-13b-chat,Road2,31,Velocity,0.5,2.75,4.5,-1.25
+llama-v2-13b-chat,Road2,31,Angular Velocity,0.5,3.0,5.0,-1.5
+llama-v2-13b-chat,Road2,32,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,32,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road2,32,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road2,32,Angular Velocity,0.0,1.75,3.5,-1.75
+llama-v2-13b-chat,Road3,33,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,33,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,33,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,33,Angular Velocity,0.5,5.25,9.5,-3.75
+llama-v2-13b-chat,Road3,34,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,34,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,34,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,34,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,35,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,35,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,35,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,35,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,36,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,36,Rotation,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road3,36,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road3,36,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,37,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,37,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,37,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road3,37,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,38,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,38,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,38,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,38,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,39,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,39,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,39,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,39,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,40,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,40,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,40,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,40,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,41,Position,0.0,2.25,4.5,-2.25
+llama-v2-13b-chat,Road3,41,Rotation,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,Road3,41,Velocity,0.0,2.75,5.5,-2.75
+llama-v2-13b-chat,Road3,41,Angular Velocity,0.0,2.25,4.5,-2.25
+llama-v2-13b-chat,Road3,42,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,42,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,42,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,42,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,43,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,43,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,43,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,43,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,44,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,44,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,44,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,44,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,45,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road3,45,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,45,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road3,45,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,Road3,46,Position,0.0,4.75,9.5,-4.75
+llama-v2-13b-chat,Road3,46,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,46,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,46,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road3,47,Position,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road3,47,Rotation,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road3,47,Velocity,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road3,47,Angular Velocity,4.0,6.5,5.0,5.5
+llama-v2-13b-chat,Road3,48,Position,0.0,4.5,9.0,-4.5
+llama-v2-13b-chat,Road3,48,Rotation,4.5,7.0,5.0,6.5
+llama-v2-13b-chat,Road3,48,Velocity,4.5,6.75,4.5,6.75
+llama-v2-13b-chat,Road3,48,Angular Velocity,5.5,7.25,3.5,9.25
+llama-v2-13b-chat,Road4,49,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,49,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,49,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,49,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,50,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,50,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,50,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,50,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,51,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,51,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,51,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,51,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,52,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,52,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,52,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,52,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,53,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,53,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,53,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,53,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,54,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,54,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,54,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,54,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,55,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,55,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,55,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,55,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,56,Position,4.5,7.0,5.0,6.5
+llama-v2-13b-chat,Road4,56,Rotation,0.0,4.5,9.0,-4.5
+llama-v2-13b-chat,Road4,56,Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,Road4,56,Angular Velocity,4.5,6.75,4.5,6.75
+llama-v2-13b-chat,Road4,57,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,57,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,57,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,57,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,58,Position,8.0,8.75,1.5,15.25
+llama-v2-13b-chat,Road4,58,Rotation,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road4,58,Velocity,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road4,58,Angular Velocity,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,Road4,59,Position,4.5,7.0,5.0,6.5
+llama-v2-13b-chat,Road4,59,Rotation,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,Road4,59,Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,Road4,59,Angular Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,Road4,60,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,60,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,60,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,60,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,61,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,61,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,61,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,61,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,62,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,Road4,62,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,62,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,62,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,63,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,63,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,63,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,63,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,Road4,64,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,64,Rotation,4.5,7.25,5.5,6.25
+llama-v2-13b-chat,Road4,64,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,Road4,64,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,1,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,1,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,1,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,1,Angular Velocity,9.0,9.5,1.0,17.5
+mistral-7b-instruct-4k,Road1,2,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road1,2,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,2,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,2,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,3,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road1,3,Rotation,8.0,9.0,2.0,15.0
+mistral-7b-instruct-4k,Road1,3,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,3,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,4,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,4,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,4,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,4,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,5,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,5,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,5,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,5,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,6,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,6,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,6,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,6,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,7,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,7,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,7,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,7,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,8,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,8,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,8,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,8,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,9,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road1,9,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,9,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,9,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,10,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,10,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,10,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,10,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,11,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road1,11,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,11,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,11,Angular Velocity,0.0,0.5,1.0,-0.5
+mistral-7b-instruct-4k,Road1,12,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,12,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,12,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,12,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,13,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,13,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,13,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road1,13,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,14,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,14,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,14,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,14,Angular Velocity,0.5,5.25,9.5,-3.75
+mistral-7b-instruct-4k,Road1,15,Position,0.0,4.5,9.0,-4.5
+mistral-7b-instruct-4k,Road1,15,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road1,15,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road1,15,Angular Velocity,0.0,4.5,9.0,-4.5
+mistral-7b-instruct-4k,Road1,16,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,16,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,16,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road1,16,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,17,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road2,17,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,17,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,17,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,18,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,18,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,18,Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road2,18,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,19,Position,3.5,6.75,6.5,3.75
+mistral-7b-instruct-4k,Road2,19,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,19,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,19,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,20,Position,0.0,1.75,3.5,-1.75
+mistral-7b-instruct-4k,Road2,20,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,20,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,20,Angular Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road2,21,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,21,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,21,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,21,Angular Velocity,8.5,9.25,1.5,16.25
+mistral-7b-instruct-4k,Road2,22,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,22,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,22,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,22,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,23,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road2,23,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road2,23,Velocity,0.0,0.25,0.5,-0.25
+mistral-7b-instruct-4k,Road2,23,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,24,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,24,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,24,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,24,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,25,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,25,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,25,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,25,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,26,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,26,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road2,26,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,26,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road2,27,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,27,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,27,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,27,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,28,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,28,Rotation,0.5,5.25,9.5,-3.75
+mistral-7b-instruct-4k,Road2,28,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,28,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,29,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,29,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,29,Velocity,6.5,8.25,3.5,11.25
+mistral-7b-instruct-4k,Road2,29,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,30,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,30,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,30,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,30,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,31,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,31,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road2,31,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,31,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road2,32,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,32,Rotation,2.5,6.25,7.5,1.25
+mistral-7b-instruct-4k,Road2,32,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road2,32,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,33,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,33,Rotation,0.0,3.25,6.5,-3.25
+mistral-7b-instruct-4k,Road3,33,Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,33,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,34,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,34,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road3,34,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,34,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road3,35,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,35,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,35,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road3,35,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road3,36,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,36,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,36,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,36,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,37,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road3,37,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,37,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road3,37,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,38,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road3,38,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,38,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,38,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,39,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,39,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,39,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,39,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road3,40,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,40,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,40,Velocity,0.0,3.5,7.0,-3.5
+mistral-7b-instruct-4k,Road3,40,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,41,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,41,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,41,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,41,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,42,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,42,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,42,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,42,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road3,43,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,43,Rotation,2.5,5.0,5.0,2.5
+mistral-7b-instruct-4k,Road3,43,Velocity,2.5,5.0,5.0,2.5
+mistral-7b-instruct-4k,Road3,43,Angular Velocity,4.5,5.25,1.5,8.25
+mistral-7b-instruct-4k,Road3,44,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road3,44,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,44,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road3,44,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,45,Position,0.5,3.0,5.0,-1.5
+mistral-7b-instruct-4k,Road3,45,Rotation,0.0,0.5,1.0,-0.5
+mistral-7b-instruct-4k,Road3,45,Velocity,0.5,3.0,5.0,-1.5
+mistral-7b-instruct-4k,Road3,45,Angular Velocity,1.0,5.5,9.0,-2.5
+mistral-7b-instruct-4k,Road3,46,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,46,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,46,Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,Road3,46,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,47,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,47,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,47,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,47,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road3,48,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road3,48,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road3,48,Velocity,3.5,6.75,6.5,3.75
+mistral-7b-instruct-4k,Road3,48,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,49,Position,0.0,3.75,7.5,-3.75
+mistral-7b-instruct-4k,Road4,49,Rotation,0.0,1.0,2.0,-1.0
+mistral-7b-instruct-4k,Road4,49,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,49,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,50,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,50,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,50,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,50,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,51,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,51,Rotation,9.0,9.5,1.0,17.5
+mistral-7b-instruct-4k,Road4,51,Velocity,6.0,8.0,4.0,10.0
+mistral-7b-instruct-4k,Road4,51,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road4,52,Position,0.0,3.5,7.0,-3.5
+mistral-7b-instruct-4k,Road4,52,Rotation,0.0,3.5,7.0,-3.5
+mistral-7b-instruct-4k,Road4,52,Velocity,3.5,6.0,5.0,4.5
+mistral-7b-instruct-4k,Road4,52,Angular Velocity,1.5,4.25,5.5,0.25
+mistral-7b-instruct-4k,Road4,53,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road4,53,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road4,53,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road4,53,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road4,54,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,54,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,54,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,54,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,55,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,55,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,55,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,55,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,56,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,56,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,56,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,56,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,57,Position,9.0,9.5,1.0,17.5
+mistral-7b-instruct-4k,Road4,57,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,57,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road4,57,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,58,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,58,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,Road4,58,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,58,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,59,Position,1.0,3.5,5.0,-0.5
+mistral-7b-instruct-4k,Road4,59,Rotation,1.0,3.5,5.0,-0.5
+mistral-7b-instruct-4k,Road4,59,Velocity,0.0,1.0,2.0,-1.0
+mistral-7b-instruct-4k,Road4,59,Angular Velocity,1.5,3.5,4.0,1.0
+mistral-7b-instruct-4k,Road4,60,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road4,60,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,60,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,60,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,61,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,Road4,61,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,61,Velocity,6.0,8.0,4.0,10.0
+mistral-7b-instruct-4k,Road4,61,Angular Velocity,1.0,5.5,9.0,-2.5
+mistral-7b-instruct-4k,Road4,62,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,62,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,62,Velocity,0.0,1.5,3.0,-1.5
+mistral-7b-instruct-4k,Road4,62,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,Road4,63,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,63,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,63,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,63,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,64,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,64,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,64,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,Road4,64,Angular Velocity,10.0,10.0,0.0,20.0

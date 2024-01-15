@@ -1,0 +1,21 @@
+Road,Parameter,Top_All,Top_G-L,Top_G-M,Top_L-M,Bottom_All,Bottom_G-L,Bottom_G-M,Bottom_L-M,Inc_G-L,Inc_G-M,Inc_L-M
+Road1,Overall,1,2,2,3,1,3,2,4,5,6,8
+Road1,Position,6,7,6,14,5,6,5,12,13,10,26
+Road1,Rotation,6,6,7,14,2,2,6,7,8,13,21
+Road1,Velocity,7,7,8,14,3,3,5,9,10,13,23
+Road1,Angular Velocity,5,7,5,13,2,5,2,11,12,10,24
+Road2,Overall,1,3,2,3,1,2,3,3,3,5,4
+Road2,Position,6,6,7,8,5,6,5,9,5,9,11
+Road2,Rotation,3,4,5,8,3,3,4,9,6,10,16
+Road2,Velocity,2,2,5,10,4,4,5,11,8,7,18
+Road2,Angular Velocity,5,5,6,13,3,3,7,7,9,13,20
+Road3,Overall,3,4,3,4,1,2,3,2,4,3,6
+Road3,Position,6,6,7,10,3,4,6,6,6,12,14
+Road3,Rotation,3,4,5,10,1,3,2,5,7,9,15
+Road3,Velocity,3,4,4,8,1,3,4,4,7,7,13
+Road3,Angular Velocity,4,5,7,10,2,4,2,6,7,11,17
+Road4,Overall,2,5,3,4,1,2,2,1,6,3,8
+Road4,Position,5,7,5,13,5,6,5,9,13,9,22
+Road4,Rotation,3,4,4,12,1,2,4,3,7,8,14
+Road4,Velocity,4,5,4,13,4,5,4,9,10,7,22
+Road4,Angular Velocity,8,8,8,15,4,5,4,11,13,10,26

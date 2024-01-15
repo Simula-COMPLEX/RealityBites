@@ -1,0 +1,6 @@
+Parameter,Top_All,Top_G-L,Top_G-M,Top_L-M,Bottom_All,Bottom_G-L,Bottom_G-M,Bottom_L-M,Inc_G-L,Inc_G-M,Inc_L-M
+Overall,1,5,2,6,0,0,1,0,1,1,4
+Position,10,13,17,26,0,3,1,5,7,9,17
+Rotation,3,9,5,12,0,1,1,4,5,8,11
+Velocity,7,12,7,21,1,2,3,4,7,4,14
+Angular Velocity,7,15,10,14,1,1,3,1,4,7,10

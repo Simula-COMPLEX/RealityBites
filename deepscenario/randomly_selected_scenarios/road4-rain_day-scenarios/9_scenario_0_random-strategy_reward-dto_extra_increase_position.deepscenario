@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SVLScenario timestep="0.5">
+	<FileHeader simulatorVersion="2021.03" date="2023-12-30T12:29:49" description="SVL Scenario Format" author="DeepCollision" />
+	<Environment>
+		<HDMap city="SanFrancisco" />
+		<EnvironmentInitialization dateTime="2021-07-07 20:00:00" unixTimeStamp="1625680800" fixTime="False" />
+		<OpenWeatherDatabase filepath="SanFrancisco_2021-7-8" />
+	</Environment>
+	<Entities>
+		<ScenarioObject name="Ego0" model="2e966a70-4a19-44b5-a5e7-64e00a7bc5de" uid="3ab0ce2f-4858-4924-acfa-fed65fc305dd">
+			<ObjectParameter ObjectType="Ego" ObjectColor="Default" ObjectColorVector="Vector(-1, -1, -1)" />
+		</ScenarioObject>
+		<ScenarioObject name="NPC0" model="SchoolBus" uid="SchoolBus(Clone)ef8622fa-004d-4ae5-9c06-eb2c33435dce">
+			<ObjectParameter ObjectType="NPC" ObjectColor="Default" ObjectColorVector="Vector(1, 0, 0)" />
+		</ScenarioObject>
+	</Entities>
+	<StoryBoard>
+		<Initialization>
+			<ObjectInitialization objectRef="Ego0">
+				<ObjectInitialPosition positionX="156.2" positionY="10.204" positionZ="-463.636" />
+				<ObjectInitialRotation rotationX="359.984" rotationY="80.004" rotationZ="-0.001" />
+				<ObjectInitialVelocity velocityX="0.137" velocityY="-0.001" velocityZ="0.027" />
+				<ObjectInitialAngularVelocity angularVelocityX="-0.001" angularVelocityY="-0.003" angularVelocityZ="0.005" />
+			</ObjectInitialization>
+			<ObjectInitialization objectRef="NPC0">
+				<ObjectInitialPosition positionX="106.913" positionY="10.208" positionZ="-472.079" />
+				<ObjectInitialRotation rotationX="0" rotationY="79.051" rotationZ="0" />
+				<ObjectInitialVelocity velocityX="0" velocityY="0" velocityZ="0" />
+				<ObjectInitialAngularVelocity angularVelocityX="0" angularVelocityY="0" angularVelocityZ="0" />
+			</ObjectInitialization>
+		</Initialization>
+		<Story name="Default">
+			<ObjectAction name="Act_Ego0">
+				<objectRef objectRef="Ego0" />
+				<WayPoint timeStamp="1">
+					<DynamicParameters>
+						<Speed speed="0.14" />
+						<Velocity velocityX="0.137" velocityY="-0.001" velocityZ="0.027" />
+						<AngularVelocity angularVelocityX="-0.001" angularVelocityY="-0.003" angularVelocityZ="0.005" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="156.2" positionY="10.204" positionZ="-463.636" />
+						<ObjectRotation rotationX="359.984" rotationY="80.004" rotationZ="-0.001" />
+						<ObjectGPS latitude="37.35102594" longitude="-121.95833991" northing="4134322.80032349" easting="592256.36346436" altitude="10.20419025" orientation="-80.00364685" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="2">
+					<DynamicParameters>
+						<Speed speed="2.162" />
+						<Velocity velocityX="2.123" velocityY="-0.0" velocityZ="0.408" />
+						<AngularVelocity angularVelocityX="-0.001" angularVelocityY="-0.018" angularVelocityZ="0.003" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="156.742" positionY="10.204" positionZ="-463.533" />
+						<ObjectRotation rotationX="359.766" rotationY="79.738" rotationZ="359.988" />
+						<ObjectGPS latitude="37.35102105" longitude="-121.95833881" northing="4134322.25842285" easting="592256.46691894" altitude="10.20427227" orientation="-79.73795319" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="3">
+					<DynamicParameters>
+						<Speed speed="3.201" />
+						<Velocity velocityX="3.138" velocityY="-0.0" velocityZ="0.63" />
+						<AngularVelocity angularVelocityX="-0.0" angularVelocityY="-0.022" angularVelocityZ="0.001" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="158.106" positionY="10.204" positionZ="-463.265" />
+						<ObjectRotation rotationX="359.889" rotationY="79.147" rotationZ="359.983" />
+						<ObjectGPS latitude="37.35100873" longitude="-121.95833595" northing="4134320.8944397" easting="592256.73516846" altitude="10.20430851" orientation="-79.1474762" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="4">
+					<DynamicParameters>
+						<Speed speed="3.782" />
+						<Velocity velocityX="3.7" velocityY="-0.0" velocityZ="0.782" />
+						<AngularVelocity angularVelocityX="-0.001" angularVelocityY="-0.023" angularVelocityZ="0.003" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="159.793" positionY="10.204" positionZ="-462.916" />
+						<ObjectRotation rotationX="359.922" rotationY="78.502" rotationZ="359.979" />
+						<ObjectGPS latitude="37.35099349" longitude="-121.95833223" northing="4134319.20706177" easting="592257.08349609" altitude="10.20427513" orientation="-78.50173187" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="5">
+					<DynamicParameters>
+						<Speed speed="4.899" />
+						<Velocity velocityX="4.782" velocityY="-0.001" velocityZ="1.065" />
+						<AngularVelocity angularVelocityX="-0.002" angularVelocityY="-0.028" angularVelocityZ="0.007" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="161.847" positionY="10.204" positionZ="-462.471" />
+						<ObjectRotation rotationX="359.848" rotationY="77.812" rotationZ="359.971" />
+						<ObjectGPS latitude="37.35097493" longitude="-121.95832745" northing="4134317.15335083" easting="592257.52917481" altitude="10.20414066" orientation="-77.81235504" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="6">
+					<DynamicParameters>
+						<Speed speed="6.177" />
+						<Velocity velocityX="6.012" velocityY="-0.001" velocityZ="1.418" />
+						<AngularVelocity angularVelocityX="0.002" angularVelocityY="-0.03" angularVelocityZ="-0.01" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="164.603" positionY="10.204" positionZ="-461.839" />
+						<ObjectRotation rotationX="359.854" rotationY="76.994" rotationZ="359.957" />
+						<ObjectGPS latitude="37.35095003" longitude="-121.95832066" northing="4134314.39694214" easting="592258.16125488" altitude="10.20413113" orientation="-76.99351501" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="7">
+					<DynamicParameters>
+						<Speed speed="6.303" />
+						<Velocity velocityX="6.115" velocityY="-0.0" velocityZ="1.526" />
+						<AngularVelocity angularVelocityX="0.002" angularVelocityY="-0.027" angularVelocityZ="-0.005" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="167.655" positionY="10.204" positionZ="-461.098" />
+						<ObjectRotation rotationX="359.975" rotationY="76.212" rotationZ="359.956" />
+						<ObjectGPS latitude="37.35092245" longitude="-121.95831268" northing="4134311.34533691" easting="592258.90209961" altitude="10.20409203" orientation="-76.21215057" />
+					</GeographicParameters>
+				</WayPoint>
+			</ObjectAction>
+			<ObjectAction name="Act_NPC0">
+				<objectRef objectRef="NPC0" />
+				<WayPoint timeStamp="1">
+					<DynamicParameters>
+						<Speed speed="0.0" />
+						<Velocity velocityX="0.0" velocityY="0.0" velocityZ="0.0" />
+						<AngularVelocity angularVelocityX="0.0" angularVelocityY="0.0" angularVelocityZ="0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="107.982" positionY="10.31" positionZ="-476.8" />
+						<ObjectRotation rotationX="0.0" rotationY="79.051" rotationZ="0.0" />
+						<ObjectGPS latitude="37.35147097" longitude="-121.95842909" northing="4134372.08703613" easting="592247.92059326" altitude="10.20766354" orientation="-79.05112457" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="2">
+					<DynamicParameters>
+						<Speed speed="4.826" />
+						<Velocity velocityX="4.792" velocityY="-0.069" velocityZ="0.568" />
+						<AngularVelocity angularVelocityX="0.003" angularVelocityY="0.102" angularVelocityZ="0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="109.265" positionY="10.196" positionZ="-476.623" />
+						<ObjectRotation rotationX="0.034" rotationY="83.347" rotationZ="0.0" />
+						<ObjectGPS latitude="37.35145951" longitude="-121.95842727" northing="4134370.81747437" easting="592248.09570312" altitude="10.09512806" orientation="-83.34684753" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="3">
+					<DynamicParameters>
+						<Speed speed="14.232" />
+						<Velocity velocityX="14.191" velocityY="-0.001" velocityZ="1.083" />
+						<AngularVelocity angularVelocityX="-0.001" angularVelocityY="0.08" angularVelocityZ="-0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="114.278" positionY="10.188" positionZ="-476.162" />
+						<ObjectRotation rotationX="0.01" rotationY="85.728" rotationZ="0.0" />
+						<ObjectGPS latitude="37.35141472" longitude="-121.95842274" northing="4134365.85256958" easting="592248.55163574" altitude="10.08688831" orientation="-85.72846985" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="4">
+					<DynamicParameters>
+						<Speed speed="18.555" />
+						<Velocity velocityX="18.507" velocityY="0.0" velocityZ="1.331" />
+						<AngularVelocity angularVelocityX="-0.0" angularVelocityY="0.471" angularVelocityZ="-0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="122.799" positionY="10.188" positionZ="-475.568" />
+						<ObjectRotation rotationX="-0.001" rotationY="85.883" rotationZ="-0.0" />
+						<ObjectGPS latitude="37.35133864" longitude="-121.95841714" northing="4134357.41729736" easting="592249.140625" altitude="10.08679199" orientation="-85.88323975" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="5">
+					<DynamicParameters>
+						<Speed speed="13.244" />
+						<Velocity velocityX="13.165" velocityY="0.0" velocityZ="1.44" />
+						<AngularVelocity angularVelocityX="0.0" angularVelocityY="-0.257" angularVelocityZ="0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="131.932" positionY="10.188" positionZ="-474.882" />
+						<ObjectRotation rotationX="-0.0" rotationY="83.461" rotationZ="0.0" />
+						<ObjectGPS latitude="37.35125707" longitude="-121.9584106" northing="4134348.37435913" easting="592249.81958008" altitude="10.08681107" orientation="-83.46149445" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="6">
+					<DynamicParameters>
+						<Speed speed="10.048" />
+						<Velocity velocityX="9.839" velocityY="0.0" velocityZ="2.039" />
+						<AngularVelocity angularVelocityX="0.0" angularVelocityY="-0.135" angularVelocityZ="-0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="137.25" positionY="10.188" positionZ="-474.008" />
+						<ObjectRotation rotationX="-0.0" rotationY="78.14" rotationZ="0.0" />
+						<ObjectGPS latitude="37.35120954" longitude="-121.95840149" northing="4134343.10922241" easting="592250.68499756" altitude="10.08680916" orientation="-78.13973999" />
+					</GeographicParameters>
+				</WayPoint>
+				<WayPoint timeStamp="7">
+					<DynamicParameters>
+						<Speed speed="12.042" />
+						<Velocity velocityX="11.646" velocityY="0.0" velocityZ="3.064" />
+						<AngularVelocity angularVelocityX="0.0" angularVelocityY="-0.086" angularVelocityZ="0.0" />
+					</DynamicParameters>
+					<GeographicParameters>
+						<ObjectPosition positionX="142.396" positionY="10.188" positionZ="-472.775" />
+						<ObjectRotation rotationX="-0.0" rotationY="75.163" rotationZ="-0.0" />
+						<ObjectGPS latitude="37.35116349" longitude="-121.95838833" northing="4134338.01382446" easting="592251.90612793" altitude="10.08681011" orientation="-75.16342926" />
+					</GeographicParameters>
+				</WayPoint>
+			</ObjectAction>
+		</Story>
+	</StoryBoard>
+</SVLScenario>

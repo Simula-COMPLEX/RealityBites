@@ -1,0 +1,769 @@
+Model,Scenario_ID,Parameter,Matched,Success,Difference,Robustness
+gpt-3.5-turbo-1106,1,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,1,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,1,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,1,Angular Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,2,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,2,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,2,Velocity,6.5,8.0,3.0,11.5
+gpt-3.5-turbo-1106,2,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,3,Position,4.0,6.25,4.5,5.75
+gpt-3.5-turbo-1106,3,Rotation,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,3,Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,3,Angular Velocity,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,4,Position,6.0,7.25,2.5,10.75
+gpt-3.5-turbo-1106,4,Rotation,5.5,6.25,1.5,10.25
+gpt-3.5-turbo-1106,4,Velocity,4.5,5.75,2.5,7.75
+gpt-3.5-turbo-1106,4,Angular Velocity,3.0,5.0,4.0,4.0
+gpt-3.5-turbo-1106,5,Position,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,5,Rotation,5.0,7.25,4.5,7.75
+gpt-3.5-turbo-1106,5,Velocity,5.0,7.0,4.0,8.0
+gpt-3.5-turbo-1106,5,Angular Velocity,5.0,7.0,4.0,8.0
+gpt-3.5-turbo-1106,6,Position,4.0,7.0,6.0,5.0
+gpt-3.5-turbo-1106,6,Rotation,4.0,6.75,5.5,5.25
+gpt-3.5-turbo-1106,6,Velocity,4.0,6.5,5.0,5.5
+gpt-3.5-turbo-1106,6,Angular Velocity,4.0,6.5,5.0,5.5
+gpt-3.5-turbo-1106,7,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,7,Rotation,7.0,8.25,2.5,12.75
+gpt-3.5-turbo-1106,7,Velocity,7.0,7.5,1.0,13.5
+gpt-3.5-turbo-1106,7,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,8,Position,9.0,9.0,0.0,18.0
+gpt-3.5-turbo-1106,8,Rotation,4.0,6.5,5.0,5.5
+gpt-3.5-turbo-1106,8,Velocity,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,8,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,9,Position,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,9,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,9,Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,9,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,10,Position,8.5,9.0,1.0,16.5
+gpt-3.5-turbo-1106,10,Rotation,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,10,Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,10,Angular Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,11,Position,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,11,Rotation,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,11,Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,11,Angular Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,12,Position,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,12,Rotation,5.0,5.25,0.5,9.75
+gpt-3.5-turbo-1106,12,Velocity,3.0,5.0,4.0,4.0
+gpt-3.5-turbo-1106,12,Angular Velocity,3.0,5.25,4.5,3.75
+gpt-3.5-turbo-1106,13,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,13,Rotation,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,13,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,13,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,14,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,14,Rotation,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,14,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,14,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,15,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,15,Rotation,5.5,7.75,4.5,8.75
+gpt-3.5-turbo-1106,15,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,15,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,16,Position,4.0,6.75,5.5,5.25
+gpt-3.5-turbo-1106,16,Rotation,4.0,6.75,5.5,5.25
+gpt-3.5-turbo-1106,16,Velocity,4.0,6.25,4.5,5.75
+gpt-3.5-turbo-1106,16,Angular Velocity,4.0,6.25,4.5,5.75
+gpt-3.5-turbo-1106,17,Position,8.0,8.0,0.0,16.0
+gpt-3.5-turbo-1106,17,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,17,Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,17,Angular Velocity,7.5,8.0,1.0,14.5
+gpt-3.5-turbo-1106,18,Position,5.5,6.75,2.5,9.75
+gpt-3.5-turbo-1106,18,Rotation,6.0,7.0,2.0,11.0
+gpt-3.5-turbo-1106,18,Velocity,3.5,5.25,3.5,5.25
+gpt-3.5-turbo-1106,18,Angular Velocity,4.0,5.5,3.0,6.5
+gpt-3.5-turbo-1106,19,Position,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,19,Rotation,7.0,8.25,2.5,12.75
+gpt-3.5-turbo-1106,19,Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,19,Angular Velocity,4.5,6.75,4.5,6.75
+gpt-3.5-turbo-1106,20,Position,2.5,4.0,3.0,3.5
+gpt-3.5-turbo-1106,20,Rotation,2.0,3.25,2.5,2.75
+gpt-3.5-turbo-1106,20,Velocity,3.0,4.5,3.0,4.5
+gpt-3.5-turbo-1106,20,Angular Velocity,3.0,4.25,2.5,4.75
+gpt-3.5-turbo-1106,21,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,21,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,21,Velocity,7.0,7.5,1.0,13.5
+gpt-3.5-turbo-1106,21,Angular Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,22,Position,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,22,Rotation,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,22,Velocity,8.5,9.0,1.0,16.5
+gpt-3.5-turbo-1106,22,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,23,Position,8.0,8.0,0.0,16.0
+gpt-3.5-turbo-1106,23,Rotation,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,23,Velocity,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,23,Angular Velocity,7.5,8.25,1.5,14.25
+gpt-3.5-turbo-1106,24,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,24,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,24,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,24,Angular Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,25,Position,4.5,7.25,5.5,6.25
+gpt-3.5-turbo-1106,25,Rotation,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,25,Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,25,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,26,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,26,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,26,Velocity,4.5,7.25,5.5,6.25
+gpt-3.5-turbo-1106,26,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,27,Position,3.0,5.25,4.5,3.75
+gpt-3.5-turbo-1106,27,Rotation,3.0,5.25,4.5,3.75
+gpt-3.5-turbo-1106,27,Velocity,3.0,6.0,6.0,3.0
+gpt-3.5-turbo-1106,27,Angular Velocity,3.0,4.5,3.0,4.5
+gpt-3.5-turbo-1106,28,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,28,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,28,Velocity,6.5,8.25,3.5,11.25
+gpt-3.5-turbo-1106,28,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,29,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,29,Rotation,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,29,Velocity,8.5,8.75,0.5,16.75
+gpt-3.5-turbo-1106,29,Angular Velocity,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,30,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,30,Rotation,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,30,Velocity,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,30,Angular Velocity,4.5,6.75,4.5,6.75
+gpt-3.5-turbo-1106,31,Position,3.5,6.75,6.5,3.75
+gpt-3.5-turbo-1106,31,Rotation,6.5,8.25,3.5,11.25
+gpt-3.5-turbo-1106,31,Velocity,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,31,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,32,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,32,Rotation,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,32,Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,32,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,33,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,33,Rotation,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,33,Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,33,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,34,Position,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,34,Rotation,6.0,7.25,2.5,10.75
+gpt-3.5-turbo-1106,34,Velocity,6.0,7.0,2.0,11.0
+gpt-3.5-turbo-1106,34,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,35,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,35,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,35,Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,35,Angular Velocity,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,36,Position,3.0,6.0,6.0,3.0
+gpt-3.5-turbo-1106,36,Rotation,9.0,9.0,0.0,18.0
+gpt-3.5-turbo-1106,36,Velocity,6.0,7.5,3.0,10.5
+gpt-3.5-turbo-1106,36,Angular Velocity,7.5,8.5,2.0,14.0
+gpt-3.5-turbo-1106,37,Position,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,37,Rotation,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,37,Velocity,7.5,8.25,1.5,14.25
+gpt-3.5-turbo-1106,37,Angular Velocity,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,38,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,38,Rotation,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,38,Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,38,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,39,Position,7.5,8.5,2.0,14.0
+gpt-3.5-turbo-1106,39,Rotation,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,39,Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,39,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,40,Position,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,40,Rotation,6.0,7.25,2.5,10.75
+gpt-3.5-turbo-1106,40,Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,40,Angular Velocity,6.0,6.75,1.5,11.25
+gpt-3.5-turbo-1106,41,Position,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,41,Rotation,5.0,5.5,1.0,9.5
+gpt-3.5-turbo-1106,41,Velocity,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,41,Angular Velocity,5.0,5.5,1.0,9.5
+gpt-3.5-turbo-1106,42,Position,6.5,7.5,2.0,12.0
+gpt-3.5-turbo-1106,42,Rotation,4.5,5.75,2.5,7.75
+gpt-3.5-turbo-1106,42,Velocity,6.0,7.0,2.0,11.0
+gpt-3.5-turbo-1106,42,Angular Velocity,7.0,7.75,1.5,13.25
+gpt-3.5-turbo-1106,43,Position,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,43,Rotation,6.5,7.5,2.0,12.0
+gpt-3.5-turbo-1106,43,Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,43,Angular Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,44,Position,7.0,8.25,2.5,12.75
+gpt-3.5-turbo-1106,44,Rotation,7.0,7.0,0.0,14.0
+gpt-3.5-turbo-1106,44,Velocity,6.0,6.75,1.5,11.25
+gpt-3.5-turbo-1106,44,Angular Velocity,6.5,7.5,2.0,12.0
+gpt-3.5-turbo-1106,45,Position,2.5,4.5,4.0,3.0
+gpt-3.5-turbo-1106,45,Rotation,4.0,4.75,1.5,7.25
+gpt-3.5-turbo-1106,45,Velocity,2.0,3.0,2.0,3.0
+gpt-3.5-turbo-1106,45,Angular Velocity,1.5,2.75,2.5,1.75
+gpt-3.5-turbo-1106,46,Position,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,46,Rotation,1.5,5.25,7.5,-0.75
+gpt-3.5-turbo-1106,46,Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,46,Angular Velocity,4.5,6.75,4.5,6.75
+gpt-3.5-turbo-1106,47,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,47,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,47,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,47,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,48,Position,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,48,Rotation,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,48,Velocity,5.5,6.5,2.0,10.0
+gpt-3.5-turbo-1106,48,Angular Velocity,5.5,6.5,2.0,10.0
+gpt-3.5-turbo-1106,49,Position,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,49,Rotation,4.5,5.25,1.5,8.25
+gpt-3.5-turbo-1106,49,Velocity,5.0,5.75,1.5,9.25
+gpt-3.5-turbo-1106,49,Angular Velocity,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,50,Position,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,50,Rotation,2.0,5.5,7.0,0.5
+gpt-3.5-turbo-1106,50,Velocity,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,50,Angular Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,51,Position,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,51,Rotation,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,51,Velocity,8.5,9.0,1.0,16.5
+gpt-3.5-turbo-1106,51,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,52,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,52,Rotation,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,52,Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,52,Angular Velocity,8.0,9.0,2.0,15.0
+gpt-3.5-turbo-1106,53,Position,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,53,Rotation,8.0,8.75,1.5,15.25
+gpt-3.5-turbo-1106,53,Velocity,5.0,6.5,3.0,8.5
+gpt-3.5-turbo-1106,53,Angular Velocity,7.5,8.25,1.5,14.25
+gpt-3.5-turbo-1106,54,Position,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,54,Rotation,5.0,7.5,5.0,7.5
+gpt-3.5-turbo-1106,54,Velocity,5.0,7.0,4.0,8.0
+gpt-3.5-turbo-1106,54,Angular Velocity,5.0,6.75,3.5,8.25
+gpt-3.5-turbo-1106,55,Position,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,55,Rotation,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,55,Velocity,6.0,8.0,4.0,10.0
+gpt-3.5-turbo-1106,55,Angular Velocity,6.0,7.75,3.5,10.25
+gpt-3.5-turbo-1106,56,Position,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,56,Rotation,8.5,9.25,1.5,16.25
+gpt-3.5-turbo-1106,56,Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,56,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,57,Position,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,57,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,57,Velocity,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,57,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,58,Position,5.0,5.25,0.5,9.75
+gpt-3.5-turbo-1106,58,Rotation,5.0,6.25,2.5,8.75
+gpt-3.5-turbo-1106,58,Velocity,3.0,4.0,2.0,5.0
+gpt-3.5-turbo-1106,58,Angular Velocity,4.0,4.75,1.5,7.25
+gpt-3.5-turbo-1106,59,Position,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,59,Rotation,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,59,Velocity,6.5,7.75,2.5,11.75
+gpt-3.5-turbo-1106,59,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,60,Position,5.5,7.25,3.5,9.25
+gpt-3.5-turbo-1106,60,Rotation,7.5,8.5,2.0,14.0
+gpt-3.5-turbo-1106,60,Velocity,2.5,5.75,6.5,1.75
+gpt-3.5-turbo-1106,60,Angular Velocity,8.0,8.5,1.0,15.5
+gpt-3.5-turbo-1106,61,Position,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,61,Rotation,7.0,8.0,2.0,13.0
+gpt-3.5-turbo-1106,61,Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,61,Angular Velocity,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,62,Position,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,62,Rotation,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,62,Velocity,9.0,9.25,0.5,17.75
+gpt-3.5-turbo-1106,62,Angular Velocity,9.0,9.5,1.0,17.5
+gpt-3.5-turbo-1106,63,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,63,Rotation,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,63,Velocity,7.5,8.75,2.5,13.75
+gpt-3.5-turbo-1106,63,Angular Velocity,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,64,Position,9.5,9.75,0.5,18.75
+gpt-3.5-turbo-1106,64,Rotation,7.0,8.5,3.0,12.5
+gpt-3.5-turbo-1106,64,Velocity,10.0,10.0,0.0,20.0
+gpt-3.5-turbo-1106,64,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,1,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,1,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,1,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,1,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,2,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,2,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,2,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,2,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,3,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,3,Rotation,4.5,7.25,5.5,6.25
+llama-v2-13b-chat,3,Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,3,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,4,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,4,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,4,Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,4,Angular Velocity,1.5,5.75,8.5,-1.25
+llama-v2-13b-chat,5,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,5,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,5,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,5,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,6,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,6,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,6,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,6,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,7,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,7,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,7,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,7,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,8,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,8,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,8,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,8,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,9,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,9,Rotation,8.5,9.25,1.5,16.25
+llama-v2-13b-chat,9,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,9,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,10,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,10,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,10,Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,10,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,11,Position,7.5,8.75,2.5,13.75
+llama-v2-13b-chat,11,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,11,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,11,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,12,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,12,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,12,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,12,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,13,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,13,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,13,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,13,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,14,Position,1.0,5.5,9.0,-2.5
+llama-v2-13b-chat,14,Rotation,0.0,0.5,1.0,-0.5
+llama-v2-13b-chat,14,Velocity,1.0,5.5,9.0,-2.5
+llama-v2-13b-chat,14,Angular Velocity,0.5,2.75,4.5,-1.25
+llama-v2-13b-chat,15,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,15,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,15,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,15,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,16,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,16,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,16,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,16,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,17,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,17,Rotation,4.0,7.0,6.0,5.0
+llama-v2-13b-chat,17,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,17,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,18,Position,4.0,6.5,5.0,5.5
+llama-v2-13b-chat,18,Rotation,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,18,Velocity,1.0,4.5,7.0,-1.5
+llama-v2-13b-chat,18,Angular Velocity,8.0,9.0,2.0,15.0
+llama-v2-13b-chat,19,Position,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,19,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,19,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,19,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,20,Position,1.0,5.5,9.0,-2.5
+llama-v2-13b-chat,20,Rotation,7.5,8.75,2.5,13.75
+llama-v2-13b-chat,20,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,20,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,21,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,21,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,21,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,21,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,22,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,22,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,22,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,22,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,23,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,23,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,23,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,23,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,24,Position,9.5,9.75,0.5,18.75
+llama-v2-13b-chat,24,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,24,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,24,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,25,Position,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,25,Rotation,0.0,3.75,7.5,-3.75
+llama-v2-13b-chat,25,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,25,Angular Velocity,0.0,0.25,0.5,-0.25
+llama-v2-13b-chat,26,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,26,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,26,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,26,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,27,Position,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,27,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,27,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,27,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,28,Position,9.5,9.75,0.5,18.75
+llama-v2-13b-chat,28,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,28,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,28,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,29,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,29,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,29,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,29,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,30,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,30,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,30,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,30,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,31,Position,0.0,0.5,1.0,-0.5
+llama-v2-13b-chat,31,Rotation,0.0,0.5,1.0,-0.5
+llama-v2-13b-chat,31,Velocity,0.5,2.75,4.5,-1.25
+llama-v2-13b-chat,31,Angular Velocity,0.5,3.0,5.0,-1.5
+llama-v2-13b-chat,32,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,32,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,32,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,32,Angular Velocity,0.0,1.75,3.5,-1.75
+llama-v2-13b-chat,33,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,33,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,33,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,33,Angular Velocity,0.5,5.25,9.5,-3.75
+llama-v2-13b-chat,34,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,34,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,34,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,34,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,35,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,35,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,35,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,35,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,36,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,36,Rotation,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,36,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,36,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,37,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,37,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,37,Velocity,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,37,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,38,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,38,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,38,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,38,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,39,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,39,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,39,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,39,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,40,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,40,Rotation,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,40,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,40,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,41,Position,0.0,2.25,4.5,-2.25
+llama-v2-13b-chat,41,Rotation,0.0,2.5,5.0,-2.5
+llama-v2-13b-chat,41,Velocity,0.0,2.75,5.5,-2.75
+llama-v2-13b-chat,41,Angular Velocity,0.0,2.25,4.5,-2.25
+llama-v2-13b-chat,42,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,42,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,42,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,42,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,43,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,43,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,43,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,43,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,44,Position,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,44,Rotation,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,44,Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,44,Angular Velocity,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,45,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,45,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,45,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,45,Angular Velocity,0.0,5.0,10.0,-5.0
+llama-v2-13b-chat,46,Position,0.0,4.75,9.5,-4.75
+llama-v2-13b-chat,46,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,46,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,46,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,47,Position,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,47,Rotation,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,47,Velocity,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,47,Angular Velocity,4.0,6.5,5.0,5.5
+llama-v2-13b-chat,48,Position,0.0,4.5,9.0,-4.5
+llama-v2-13b-chat,48,Rotation,4.5,7.0,5.0,6.5
+llama-v2-13b-chat,48,Velocity,4.5,6.75,4.5,6.75
+llama-v2-13b-chat,48,Angular Velocity,5.5,7.25,3.5,9.25
+llama-v2-13b-chat,49,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,49,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,49,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,49,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,50,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,50,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,50,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,50,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,51,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,51,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,51,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,51,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,52,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,52,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,52,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,52,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,53,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,53,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,53,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,53,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,54,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,54,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,54,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,54,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,55,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,55,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,55,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,55,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,56,Position,4.5,7.0,5.0,6.5
+llama-v2-13b-chat,56,Rotation,0.0,4.5,9.0,-4.5
+llama-v2-13b-chat,56,Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,56,Angular Velocity,4.5,6.75,4.5,6.75
+llama-v2-13b-chat,57,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,57,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,57,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,57,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,58,Position,8.0,8.75,1.5,15.25
+llama-v2-13b-chat,58,Rotation,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,58,Velocity,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,58,Angular Velocity,0.0,4.0,8.0,-4.0
+llama-v2-13b-chat,59,Position,4.5,7.0,5.0,6.5
+llama-v2-13b-chat,59,Rotation,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,59,Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,59,Angular Velocity,9.0,9.5,1.0,17.5
+llama-v2-13b-chat,60,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,60,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,60,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,60,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,61,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,61,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,61,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,61,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,62,Position,5.0,7.5,5.0,7.5
+llama-v2-13b-chat,62,Rotation,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,62,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,62,Angular Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,63,Position,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,63,Rotation,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,63,Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,63,Angular Velocity,0.0,0.0,0.0,0.0
+llama-v2-13b-chat,64,Position,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,64,Rotation,4.5,7.25,5.5,6.25
+llama-v2-13b-chat,64,Velocity,10.0,10.0,0.0,20.0
+llama-v2-13b-chat,64,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,1,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,1,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,1,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,1,Angular Velocity,9.0,9.5,1.0,17.5
+mistral-7b-instruct-4k,2,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,2,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,2,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,2,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,3,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,3,Rotation,8.0,9.0,2.0,15.0
+mistral-7b-instruct-4k,3,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,3,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,4,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,4,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,4,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,4,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,5,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,5,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,5,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,5,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,6,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,6,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,6,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,6,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,7,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,7,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,7,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,7,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,8,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,8,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,8,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,8,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,9,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,9,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,9,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,9,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,10,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,10,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,10,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,10,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,11,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,11,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,11,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,11,Angular Velocity,0.0,0.5,1.0,-0.5
+mistral-7b-instruct-4k,12,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,12,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,12,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,12,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,13,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,13,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,13,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,13,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,14,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,14,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,14,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,14,Angular Velocity,0.5,5.25,9.5,-3.75
+mistral-7b-instruct-4k,15,Position,0.0,4.5,9.0,-4.5
+mistral-7b-instruct-4k,15,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,15,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,15,Angular Velocity,0.0,4.5,9.0,-4.5
+mistral-7b-instruct-4k,16,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,16,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,16,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,16,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,17,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,17,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,17,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,17,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,18,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,18,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,18,Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,18,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,19,Position,3.5,6.75,6.5,3.75
+mistral-7b-instruct-4k,19,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,19,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,19,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,20,Position,0.0,1.75,3.5,-1.75
+mistral-7b-instruct-4k,20,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,20,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,20,Angular Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,21,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,21,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,21,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,21,Angular Velocity,8.5,9.25,1.5,16.25
+mistral-7b-instruct-4k,22,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,22,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,22,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,22,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,23,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,23,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,23,Velocity,0.0,0.25,0.5,-0.25
+mistral-7b-instruct-4k,23,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,24,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,24,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,24,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,24,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,25,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,25,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,25,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,25,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,26,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,26,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,26,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,26,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,27,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,27,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,27,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,27,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,28,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,28,Rotation,0.5,5.25,9.5,-3.75
+mistral-7b-instruct-4k,28,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,28,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,29,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,29,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,29,Velocity,6.5,8.25,3.5,11.25
+mistral-7b-instruct-4k,29,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,30,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,30,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,30,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,30,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,31,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,31,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,31,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,31,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,32,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,32,Rotation,2.5,6.25,7.5,1.25
+mistral-7b-instruct-4k,32,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,32,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,33,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,33,Rotation,0.0,3.25,6.5,-3.25
+mistral-7b-instruct-4k,33,Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,33,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,34,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,34,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,34,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,34,Angular Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,35,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,35,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,35,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,35,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,36,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,36,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,36,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,36,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,37,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,37,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,37,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,37,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,38,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,38,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,38,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,38,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,39,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,39,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,39,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,39,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,40,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,40,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,40,Velocity,0.0,3.5,7.0,-3.5
+mistral-7b-instruct-4k,40,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,41,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,41,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,41,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,41,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,42,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,42,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,42,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,42,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,43,Position,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,43,Rotation,2.5,5.0,5.0,2.5
+mistral-7b-instruct-4k,43,Velocity,2.5,5.0,5.0,2.5
+mistral-7b-instruct-4k,43,Angular Velocity,4.5,5.25,1.5,8.25
+mistral-7b-instruct-4k,44,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,44,Rotation,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,44,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,44,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,45,Position,0.5,3.0,5.0,-1.5
+mistral-7b-instruct-4k,45,Rotation,0.0,0.5,1.0,-0.5
+mistral-7b-instruct-4k,45,Velocity,0.5,3.0,5.0,-1.5
+mistral-7b-instruct-4k,45,Angular Velocity,1.0,5.5,9.0,-2.5
+mistral-7b-instruct-4k,46,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,46,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,46,Velocity,0.0,2.5,5.0,-2.5
+mistral-7b-instruct-4k,46,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,47,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,47,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,47,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,47,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,48,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,48,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,48,Velocity,3.5,6.75,6.5,3.75
+mistral-7b-instruct-4k,48,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,49,Position,0.0,3.75,7.5,-3.75
+mistral-7b-instruct-4k,49,Rotation,0.0,1.0,2.0,-1.0
+mistral-7b-instruct-4k,49,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,49,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,50,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,50,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,50,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,50,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,51,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,51,Rotation,9.0,9.5,1.0,17.5
+mistral-7b-instruct-4k,51,Velocity,6.0,8.0,4.0,10.0
+mistral-7b-instruct-4k,51,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,52,Position,0.0,3.5,7.0,-3.5
+mistral-7b-instruct-4k,52,Rotation,0.0,3.5,7.0,-3.5
+mistral-7b-instruct-4k,52,Velocity,3.5,6.0,5.0,4.5
+mistral-7b-instruct-4k,52,Angular Velocity,1.5,4.25,5.5,0.25
+mistral-7b-instruct-4k,53,Position,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,53,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,53,Velocity,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,53,Angular Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,54,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,54,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,54,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,54,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,55,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,55,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,55,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,55,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,56,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,56,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,56,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,56,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,57,Position,9.0,9.5,1.0,17.5
+mistral-7b-instruct-4k,57,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,57,Velocity,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,57,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,58,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,58,Rotation,0.0,5.0,10.0,-5.0
+mistral-7b-instruct-4k,58,Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,58,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,59,Position,1.0,3.5,5.0,-0.5
+mistral-7b-instruct-4k,59,Rotation,1.0,3.5,5.0,-0.5
+mistral-7b-instruct-4k,59,Velocity,0.0,1.0,2.0,-1.0
+mistral-7b-instruct-4k,59,Angular Velocity,1.5,3.5,4.0,1.0
+mistral-7b-instruct-4k,60,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,60,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,60,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,60,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,61,Position,5.0,7.5,5.0,7.5
+mistral-7b-instruct-4k,61,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,61,Velocity,6.0,8.0,4.0,10.0
+mistral-7b-instruct-4k,61,Angular Velocity,1.0,5.5,9.0,-2.5
+mistral-7b-instruct-4k,62,Position,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,62,Rotation,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,62,Velocity,0.0,1.5,3.0,-1.5
+mistral-7b-instruct-4k,62,Angular Velocity,0.0,0.0,0.0,0.0
+mistral-7b-instruct-4k,63,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,63,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,63,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,63,Angular Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,64,Position,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,64,Rotation,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,64,Velocity,10.0,10.0,0.0,20.0
+mistral-7b-instruct-4k,64,Angular Velocity,10.0,10.0,0.0,20.0

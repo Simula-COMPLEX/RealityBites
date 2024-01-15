@@ -1,0 +1,165 @@
+model: gpt-3.5-turbo-1106
+
+You know a lot about autonomous driving and some realistic autonomous driving crash datasets.
+You are a helpful scenario realism evaluation assistant.
+You will evaluate the following autonomous driving scenario, and check whether the scenario is realistic.
+You will provide the corresponding realism score. The scale is 1.0-10.0, where 1.0 is unrealistic and 10.0 is realistic.
+You will also provide the Probability and Confidence of the outputs as a percentage. Probability refers to the likelihood of your output, while Confidence indicates the certainty in the prediction for your output.
+You know the scenario is from the LGSVL simulator.
+
+In the following scenario, Ego0's driving intention is to first perform a left turn to switch to a straight downhill lane and then drive without turning.
+The weather in this scenario is sunny and day.
+The scenario starts at 0.0 seconds and all objects start from rest.
+
+At 0.0 seconds:
+The 'position' of Ego0 is (-145.741, 10.204, -499.361).
+The 'rotation' of Ego0 is (359.984, 169.106, -0.0).
+The 'velocity' of Ego0 is (0.026, -0.001, -0.132).
+The 'angular_velocity' of Ego0 is (0.005, 0.002, 0.001).
+The 'position' of NPC0 is (-149.577, 10.31, -514.878).
+The 'rotation' of NPC0 is (-0.0, 167.93, -0.0).
+The 'velocity' of NPC0 is (0.0, 0.0, 0.0).
+The 'angular_velocity' of NPC0 is (0.0, 0.0, 0.0).
+
+At 0.5 seconds:
+The 'position' of Ego0 is (-145.639, 10.204, -499.862).
+The 'rotation' of Ego0 is (359.794, 168.848, 359.99).
+The 'velocity' of Ego0 is (0.39, 0.0, -1.903).
+The 'angular_velocity' of Ego0 is (0.002, -0.017, 0.001).
+The 'position' of NPC0 is (-149.253, 10.279, -515.434).
+The 'rotation' of NPC0 is (0.023, 142.712, -0.003).
+The 'velocity' of NPC0 is (1.44, -0.019, -1.941).
+The 'angular_velocity' of NPC0 is (0.003, -0.582, -0.001).
+
+At 1.0 seconds:
+The 'position' of Ego0 is (-145.391, 10.204, -501.06).
+The 'rotation' of Ego0 is (359.936, 168.563, 359.993).
+The 'velocity' of Ego0 is (0.539, 0.0, -2.574).
+The 'angular_velocity' of Ego0 is (-0.005, -0.014, -0.001).
+The 'position' of NPC0 is (-148.057, 10.277, -516.65).
+The 'rotation' of NPC0 is (0.01, 129.759, -0.0).
+The 'velocity' of NPC0 is (3.108, -0.0, -2.634).
+The 'angular_velocity' of NPC0 is (-0.001, -0.411, 0.0).
+
+At 1.5 seconds:
+The 'position' of Ego0 is (-145.04, 10.204, -502.707).
+The 'rotation' of Ego0 is (359.811, 168.091, 359.982).
+The 'velocity' of Ego0 is (0.895, -0.001, -4.125).
+The 'angular_velocity' of Ego0 is (0.003, -0.021, 0.001).
+The 'position' of NPC0 is (-146.246, 10.277, -518.026).
+The 'rotation' of NPC0 is (-0.001, 128.966, 0.0).
+The 'velocity' of NPC0 is (3.737, -0.0, -2.96).
+The 'angular_velocity' of NPC0 is (-0.0, 0.457, -0.0).
+
+At 2.0 seconds:
+The 'position' of Ego0 is (-144.504, 10.204, -505.128).
+The 'rotation' of Ego0 is (359.9, 167.498, 359.973).
+The 'velocity' of Ego0 is (1.168, -0.0, -5.158).
+The 'angular_velocity' of Ego0 is (-0.008, -0.022, -0.001).
+The 'position' of NPC0 is (-144.527, 10.277, -519.791).
+The 'rotation' of NPC0 is (-0.001, 142.63, 0.0).
+The 'velocity' of NPC0 is (3.05, -0.0, -3.912).
+The 'angular_velocity' of NPC0 is (0.0, 0.507, -0.0).
+
+At 2.5 seconds:
+The 'position' of Ego0 is (-143.88, 10.204, -507.768).
+The 'rotation' of Ego0 is (359.974, 166.54, 359.931).
+The 'velocity' of Ego0 is (1.343, -0.0, -5.341).
+The 'angular_velocity' of Ego0 is (-0.003, -0.06, 0.004).
+The 'position' of NPC0 is (-143.001, 10.277, -521.791).
+The 'rotation' of NPC0 is (-0.001, 137.395, -0.0).
+The 'velocity' of NPC0 is (3.346, 0.0, -3.711).
+The 'angular_velocity' of NPC0 is (0.0, -0.481, 0.0).
+
+At 3.0 seconds:
+The 'position' of Ego0 is (-143.123, 10.204, -510.429).
+The 'rotation' of Ego0 is (0.016, 163.58, 359.798).
+The 'velocity' of Ego0 is (1.703, 0.0, -5.172).
+The 'angular_velocity' of Ego0 is (-0.005, -0.161, 0.006).
+The 'position' of NPC0 is (-141.114, 10.277, -523.463).
+The 'rotation' of NPC0 is (-0.001, 125.841, 0.0).
+The 'velocity' of NPC0 is (4.008, -0.0, -2.991).
+The 'angular_velocity' of NPC0 is (-0.0, -0.744, -0.0).
+
+Your task is to perform the following actions:
+1 - Evaluate the realism of the scenario for each second, and Provide the corresponding realism score.
+2 - Evaluate the realism of the scenario according to each second. And Output whether the scenario is realistic, if it is realistic, output True, if not, output False. And Provide the corresponding realism score. And Output the probability and confidence for the realistic result and realism score.
+3 - Output the realism scores of each second, and the realistic result and realism score of the scenario, and the corresponding probability and confidence in a JSON/json format. Here is an example:
+```
+{
+"0.0 seconds": <realism score>,
+"0.5 seconds": <realism score>,
+"1.0 seconds": <realism score>,
+"1.5 seconds": <realism score>,
+"2.0 seconds": <realism score>,
+"2.5 seconds": <realism score>,
+"3.0 seconds": <realism score>,
+"realistic": <true or false>,
+"realistic_probability": <probability percentage for realistic>,
+"realistic_confidence": <confidence percentage for realistic>,
+"scenario": <realism score>
+"scenario_probability": <probability percentage for scenario realism score>,
+"scenario_confidence": <confidence percentage for scenario realism score>,
+}
+```
+
+Use the following format:
+Evaluation of the Realism for each second:
+<evaluation results for each second>
+Realism Score for each second:
+<realism score for each second>
+Evaluation of the Realism of the scenario:
+<evaluation results>
+Realistic:
+<True or False>
+Realistic Probability:
+<probability percentage for realistic>
+Realistic Confidence:
+<confidence percentage for realistic>
+Realism Score:
+<realism score>
+Realism Score Probability:
+<probability percentage for scenario realism score>
+Realism Score Confidence:
+<confidence percentage for scenario realism score>
+Realism Score in JSON/json:
+<realism scores of each second, and the realism score and realistic result of the scenario, and the corresponding probability and confidence in a JSON/json format>
+
+
+Evaluation of the Realism for each second:
+At 0.0 seconds: Realism score: 8.5
+At 0.5 seconds: Realism score: 7.5
+At 1.0 seconds: Realism score: 7.0
+At 1.5 seconds: Realism score: 6.5
+At 2.0 seconds: Realism score: 6.0
+At 2.5 seconds: Realism score: 5.5
+At 3.0 seconds: Realism score: 5.0
+
+Evaluation of the Realism of the scenario:
+The scenario is not realistic. 
+Realistic: False
+Realistic Probability: 70%
+Realistic Confidence: 75%
+Realism Score: 6.5
+Realism Score Probability: 80%
+Realism Score Confidence: 85%
+
+Realism Score in JSON:
+{
+"0.0 seconds": 8.5,
+"0.5 seconds": 7.5,
+"1.0 seconds": 7.0,
+"1.5 seconds": 6.5,
+"2.0 seconds": 6.0,
+"2.5 seconds": 5.5,
+"3.0 seconds": 5.0,
+"realistic": false,
+"realistic_probability": 70,
+"realistic_confidence": 75,
+"scenario": 6.5,
+"scenario_probability": 80,
+"scenario_confidence": 85
+}
+
+
+create_time: 4.710931301116943s output_time: 0.0s total_time: 4.710931301116943s
