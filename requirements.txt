@@ -1,0 +1,9 @@
+pandas
+# pip install scenario-toolset.tar.gz
+scenario-toolset.tar.gz
+# pip install --upgrade openai
+openai
+fireworks-ai
+matplotlib
+openpyxl
+seaborn
