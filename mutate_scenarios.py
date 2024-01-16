@@ -39,7 +39,11 @@ class MutateScenarios(object):
             for weather in weather_list:
                 randomly_select_scenarios_path = "./deepscenario/randomly_selected_scenarios/" + road + "-" + weather + "-scenarios/"
                 randomly_select_scenarios_names_list = [f for f in os.listdir(randomly_select_scenarios_path) if
-                                                        os.path.isfile(os.path.join(randomly_select_scenarios_path, f))]
+                                                        os.path.isfile(os.path.join(randomly_select_scenarios_path,
+                                                                                    f)) and not any(
+                                                            param in f for param in
+                                                            ["original", "position", "rotation", "velocity",
+                                                             "angular_velocity"])]
                 for randomly_select_scenario_name in randomly_select_scenarios_names_list:
                     randomly_select_scenario_name = os.path.join(randomly_select_scenarios_path,
                                                                  randomly_select_scenario_name)
