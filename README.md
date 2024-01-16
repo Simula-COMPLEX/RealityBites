@@ -13,10 +13,10 @@ pip install -r requirements.txt
 The folder _deepscenario_ contains all scenario files involved.
 
 ## Script Structure
-### Scenario Mutation
+#### Scenario Mutation
 _mutate_scenarios.py_ contains functions related to scenario mutation.
 
-### LLM API
+#### LLM API
 _llm_api.py_ is used to generate prompts and call LLM API to output the answers.
 
 In this script, _api_key_ needs to be added manually:
@@ -29,7 +29,7 @@ _api_key_ for OpenAI: [OpenAI](https://platform.openai.com/api-keys)
 
 _api_key_ for fireworks.ai: [fireworks.ai](https://app.fireworks.ai/api-keys)
 
-### Result Analysis
+#### Result Analysis
 _parse_results.py_ involves all program implementations associated with the analysis of results.
 
 ## LLM Output & Results
