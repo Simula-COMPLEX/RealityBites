@@ -32,5 +32,5 @@ _api_key_ for fireworks.ai: [fireworks.ai](https://app.fireworks.ai/api-keys)
 #### Result Analysis
 _parse_results.py_ involves all program implementations associated with the analysis of results.
 
-## LLM Output & Results
+## LLM Outputs & Results
 The folder _outputs_results_ contains all LLM output and analysis result files.
