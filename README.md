@@ -25,8 +25,8 @@ client = OpenAI(api_key="")
 ...
 fireworks.client.api_key = ""
 ```
- _api_key_ for OpenAI: [OpenAI](https://platform.openai.com/api-keys)
- _api_key_ for fireworks.ai: [fireworks.ai](https://app.fireworks.ai/api-keys)
+_api_key_ for OpenAI: [OpenAI](https://platform.openai.com/api-keys)
+_api_key_ for fireworks.ai: [fireworks.ai](https://app.fireworks.ai/api-keys)
 
 ### Result Analysis
 _parse_results.py_ involves all program implementations associated with the analysis of results.
