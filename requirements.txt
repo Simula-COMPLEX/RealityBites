@@ -7,4 +7,3 @@ fireworks-ai
 matplotlib
 openpyxl
 seaborn
-requests
