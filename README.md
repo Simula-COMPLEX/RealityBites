@@ -19,7 +19,7 @@ _mutate_scenarios.py_ contains functions related to scenario mutation.
 ### LLM API
 _llm_api.py_ is used to generate prompts and call LLM API to output the answers.
 
-In this script, you need to manually fill in the corresponding _api_key_:
+In this script, _api_key_ needs to be added manually:
 ```
 client = OpenAI(api_key="")
 ...
